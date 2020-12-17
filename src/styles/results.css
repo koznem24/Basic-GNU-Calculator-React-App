@@ -1,0 +1,27 @@
+.results{
+	height: 120px;
+	background-color: #F5F5F5;
+	border-bottom-color: #B5B0B0;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-top-color: #B5B0B0;
+	border-top-width: 1px;
+	border-top-style: solid;
+}
+
+.elements{
+	display: inline-flex;
+}
+
+.firstH3{
+	margin-left:0px ;
+	
+}
+
+.secondH3{
+
+}
+
+.thirdH3{
+
+}

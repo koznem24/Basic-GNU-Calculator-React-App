@@ -1,0 +1,51 @@
+.numAndFuncButs{
+	background-color: #F5F5F5;
+	height:159px;
+	padding-top: 5px;
+	border-top-color: #B5B0B0;
+	border-top-width: 1px;
+	border-top-style: solid;
+	display: block;
+}
+
+.designedButton{
+	text-align: center;
+	background-color: #F1EFEE;
+	border: 1px solid #CAC4BF;
+	border-radius: 5px;
+	height: 35px;
+	width:50px;
+	margin:2px;
+	transition-duration: 0.2s;
+	transition-timing-function:ease-in;
+
+}
+.designedButton:focus{
+	outline:none;
+}
+
+.designedButton:hover{
+	background-color: #FFFAFA;
+}
+
+.designedBigButton{
+	color: white;
+	text-align: center;
+	background-color: #3584E4;
+	border: 1px solid #1F5AA2;
+	border-radius: 5px;
+	height: 35px;
+	width:105px;
+	margin:2px;
+	transition-duration: 0.2s;
+	transition-timing-function:ease-in;
+
+}
+
+.designedBigButton:hover{
+	background-color: #4792EC;
+}
+
+.designedBigButton:focus{
+	outline: none;
+}
