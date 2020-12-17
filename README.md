@@ -1,7 +1,7 @@
 
 # Basic view
 
-![Alt text](./public/static/withoutCalculation.png.jpg?raw=true "Overall View of the Calculator")
+![Alt text](./public/static/withoutCalculation.png?raw=true "Overall View of the Calculator")
 
 ## Available Scripts
 
