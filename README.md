@@ -1,6 +1,8 @@
 
 # Basic view
 
+![Alt text](./public/static/withoutCalculation.png.jpg?raw=true "Overall View of the Calculator")
+
 ## Available Scripts
 
 In the project directory, you can run:
